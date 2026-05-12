@@ -11,7 +11,7 @@ A simple REST API built using Spring Boot that fetches real-time weather and for
 - 🧱 Layered architecture (Controller, Service, DTO)
 - ⚠️ Global Exception Handling
 - 🔐 API Key secured using application.properties
-
+deploy link- https://weather-springboot-api-2.onrender.com
 ---
 
 ## 🛠 Tech Stack
